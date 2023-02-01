@@ -25,7 +25,3 @@ python run_test.py
 | lambda_cloud-8xV100-Texas-persistent   |  2.0 Gb/s (4.6 Gb/s afterwards unless reboot) |
 | lambda_cloud-8xV100-Texas-home   |  4.7 Gb/s |
 | sshfs-lambda_cloud-8xV100-Texas-persistent   | 0.03Gb/s |
-
-
-
-you’ll want to do this in a new process.
